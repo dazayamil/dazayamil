@@ -1,5 +1,52 @@
-# 💫 About Me:
-👋 Sobre mí<br><br>Soy estudiante de la Facultad de Informática de la Universidad Nacional de La Plata, actualmente finalizando materias de segundo año. Me apasiona el desarrollo backend y disfruto aprender de forma constante, resolver problemas y trabajar en proyectos que representen un desafío real.<br><br>Durante mi formación, adquirí experiencia en Java y Spring Boot, desarrollando APIs REST, utilizando JPA con Hibernate para el mapeo de datos y trabajando con bases de datos relacionales como MySQL. También tengo conocimientos en programación orientada a objetos, programación concurrente, diseño de esquemas de base de datos y consultas en SQL.<br><br>Complemento mi perfil técnico con herramientas como Git, consola Linux, shell scripting y metodología ágil Scrum. Actualmente sigo profundizando en temas como Spring Security, JWT y arquitectura de microservicios.<br><br>🚀 Actualmente<br><br>Aprendiendo Spring Security, autenticación con JWT, microservicios y prácticas avanzadas de desarrollo backend con Java.<br><br>Colaborando en proyectos personales y académicos como desarrollador backend.<br><br>Estudiando para fortalecer mi base en arquitectura de software, testing y despliegue.<br><br>Recientemente obtuve una certificación en desarrollo Back-End con Java.<br>Ver certificado: https://drive.google.com/drive/u/0/home<br><br>🎯 Objetivo profesional<br><br>Mi objetivo es incorporarme como Backend Java Developer Jr., preferentemente en una fintech o una consultora de software, donde pueda combinar tecnología y negocios, aprendiendo de equipos que trabajen con buenas prácticas y desafíos reales.<br><br>📌 Proyectos<br><br>Podés ver todos mis proyectos en https://github.com/dazayamil<br><br>Sistema de gestión de turnos con Spring Boot y MySQL<br><br>Plataforma de pedidos con manejo de stock, validaciones y JWT<br><br>API REST para barbería: diseño modular, modelo relacional, consultas avanzadas<br><br>📫 Contacto<br><br>Email: dazayamil@gmail.com<br><br>LinkedIn: https://www.linkedin.com/in/yamil-daza/<br><br>¡Gracias por visitar mi perfil de GitHub! 
+# JAVA DEVELOPER 💻☕  
+
+---
+
+## 👋 Sobre mí
+
+Soy estudiante de la Facultad de Informática de la Universidad Nacional de La Plata, actualmente finalizando materias de segundo año. Me apasiona el desarrollo backend y disfruto aprender de forma constante, resolver problemas y trabajar en proyectos que representen un desafío real.
+
+Durante mi formación, adquirí experiencia en Java y Spring Boot, desarrollando APIs REST, utilizando JPA con Hibernate para el mapeo de datos y trabajando con bases de datos relacionales como MySQL. También tengo conocimientos en programación orientada a objetos, programación concurrente, diseño de esquemas de base de datos y consultas en SQL.
+
+Complemento mi perfil técnico con herramientas como Git, consola Linux, shell scripting y metodología ágil Scrum. Actualmente sigo profundizando en temas como Spring Security, JWT y arquitectura de microservicios.
+
+---
+
+### 🚀 Actualmente
+
+- 🌱 Aprendiendo **Spring Security**, autenticación con **JWT**, **microservicios**, y prácticas avanzadas de desarrollo backend con Java.
+- 💼 Colaborando en proyectos personales y académicos como desarrollador backend.
+- 📚 Estudiando para fortalecer mi base en arquitectura de software, testing y despliegue.
+
+📜 Recientemente obtuve una **certificación en desarrollo Back-End con Java**.  
+👉 [Ver certificado](https://drive.google.com/drive/u/0/home)
+
+---
+
+### 🎯 Objetivo profesional
+
+Mi objetivo es incorporarme como **Backend Java Developer Jr.**, preferentemente en una **fintech** o una **consultora de software**, donde pueda combinar tecnología y negocios, aprendiendo de equipos que trabajen con buenas prácticas y desafíos reales.
+
+---
+
+## 📌 Proyectos
+
+> Podés ver todos mis proyectos en [github.com/dazayamil](https://github.com/dazayamil)
+
+- 🛒 **Sistema de gestión de turnos** con Spring Boot y MySQL  
+- 🧾 **Plataforma de pedidos** con manejo de stock, validaciones y JWT  
+- 📚 **API REST para barbería**: diseño modular, modelo relacional, consultas avanzadas
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: **dazayamil@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/yamil-daza](https://www.linkedin.com/in/yamil-daza/)
+
+---
+
+¡Gracias por visitar mi perfil de GitHub!. >
 
 
 ## 🌐 Socials:
