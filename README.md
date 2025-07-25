@@ -19,7 +19,7 @@ Complemento mi perfil técnico con herramientas como Git, consola Linux, shell s
 - 📚 Estudiando para fortalecer mi base en arquitectura de software, testing y despliegue.
 
 📜 Recientemente obtuve una **certificación en desarrollo Back-End con Java**.  
-👉 [Ver certificado](https://drive.google.com/drive/u/0/home)
+👉 [Ver certificado](./JAVA_-_Certificacin.pdf)
 
 ---
 
