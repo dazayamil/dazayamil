@@ -59,9 +59,10 @@ Mi objetivo es incorporarme como **Backend Java Developer Jr.**, preferentemente
 ![](https://nirzak-streak-stats.vercel.app/?user=dazayamil&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dazayamil&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-> 💡 **Random Dev Quote**  
+> 💡 **Random Dev Quote**
+> 
 > _“Primero resuelve el problema, después escribe el código”_  
-> — John Johnson
+> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dazayamil&icon=0&color=7)](https://visitcount.itsvg.in)
