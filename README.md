@@ -39,13 +39,6 @@ Mi objetivo es incorporarme como **Backend Java Developer Jr.**, preferentemente
 
 ---
 
-## 📫 Contacto
-
-- 📧 Email: **dazayamil@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/yamil-daza](https://www.linkedin.com/in/yamil-daza/)
-
----
-
 ¡Gracias por visitar mi perfil de GitHub!. >
 
 
